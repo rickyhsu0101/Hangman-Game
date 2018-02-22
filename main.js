@@ -20,10 +20,46 @@ var data =
         artist: ["Imagine", "Dragons"],
         song: ["Thunder"],
         path: "./music/Thunder.mp3"
+    },
+    {
+        artist: ["Demi", "Lovato"],
+        song: ["Sorry", "Not", "Sorry"],
+        path: "./music/SorryNotSorry.mp3"        
+    },
+    {
+        artist: ["Maroon", "5"],
+        song: ["What", "Lovers", "Do"],
+        path: "./music/WhatLoversDo.mp3"        
+    },
+    {
+        artist: ["Pink"],
+        song: ["What", "About", "Us"],
+        path: "./music/WhatAboutUs.mp3"        
+    },
+    {
+        artist: ["Camila", "Cabello"],
+        song: ["Havana"],
+        path: "./music/Havana.mp3"        
+    },
+    {
+        artist: ["Halsey"],
+        song: ["Bad", "At", "Love"],
+        path: "./music/BadAtLove.mp3"        
+    },
+    {
+        artist: ["Justin", "Timberlake"],
+        song: ["Filthy"],
+        path: "./music/Filthy.mp3"        
+    },
+    {
+        artist: ["Charlie", "Puth"],
+        song: ["Attention"],
+        path: "./music/Attention.mp3"        
     }
 ];
 var keys= ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p',
-            'q','r','s','t','u','v','w','x','y','z']
+            'q','r','s','t','u','v','w','x','y','z','0','1','2','3','4','5',
+            '6','7','8','9'];
 $(document).ready(function(){
     
 
