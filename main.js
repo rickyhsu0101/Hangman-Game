@@ -10,6 +10,16 @@ var data =
         artist: ["Ed", "Sheeran"],
         song: ["Perfect"],
         path: "./music/Perfect.mp3"
+    },
+    {
+        artist: ["Dua", "Lipa"],
+        song: ["New", "Rules"],
+        path: "./music/NewRules.mp3"
+    },
+    {
+        artist: ["Imagine", "Dragons"],
+        song: ["Thunder"],
+        path: "./music/Thunder.mp3"
     }
 ];
 var keys= ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p',
