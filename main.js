@@ -30,7 +30,7 @@ $(document).ready(function(){
     var type = ["artist","song"];
     var actualStringArray = [];
     var guesses = [];
-    var numGuesses = 20;
+    var numGuesses = 0;
     var isFinished = false;
     var path = "";
     var guessObject = "";
@@ -54,7 +54,7 @@ $(document).ready(function(){
 
 
     function reset(){
-        numGuesses=15;
+        numGuesses=20;
         guesses = [];
         actualStringArray = [];
         isFinished = false;
